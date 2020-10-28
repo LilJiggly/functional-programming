@@ -22,8 +22,8 @@ Waar en wanneer kun je zo duur mogelijk parkeren?
 * Wat zijn de duurste parkeer plekken?
 Vermoedelijk centrums van grote steden.
 
-* Welke tarieven zijn er?
-Verschillende prijzen van gratis parkeren tot 50 euro voor een dagkaart
+* Welke parkeer categorien en tarieven zijn er?
+Verschillende prijzen per uur van gratis parkeren tot 50 euro voor een dagkaart
 
 * Verschillen deze tarieven per dag of tijdstip?
 Zondag vrij parkeren en na 9 uur vrij parkeren, etc.
