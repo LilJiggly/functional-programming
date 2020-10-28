@@ -36,7 +36,7 @@ Ik denk dat er meer met een pinpas word betaald dan met cash.
 
 ### Variabelen
 * Parkeertarieven
-* Parkeertarieven per dag
+* Parkeertarieven en categorien per dag
 * Parkeerlocaties
 * Betaalmethodes
  
