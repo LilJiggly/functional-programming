@@ -13,6 +13,10 @@ Deze repository is aangemaakt om mijn functional programming bestanden en leerpr
 
 - Voor mijn Functional Programming project heb ik ervoor gekozen om parkeren voor de elite te belichten. Dit alles is een beetje vanuit een komisch standpunt, want er is geen specifieke data over welke parkeerders elite zijn. Lang verhaal kort ik ga kijken hoe je op ze allerduurst kunt parkeren in Nederland. Misschien vernauw ik deze data door een stad te kiezen, maar daar kan ik nu nog geen antwoord op geven.
 
+## Debrief
+
+De volkskrant is op zoek naar interessante verbanden uit de RDW data om artikelen over te schrijven. Wij als CMD studenten gaan kijken of we een leuk onderwerp kunnen verzinnen waarin we verbanden leggen tussen verschillende databases.
+
 # Parkeren voor de elite
 (het machtigste, rijkste en best opgeleide deel van de bevolking)
 
@@ -21,26 +25,25 @@ Waar en wanneer kun je zo duur mogelijk parkeren?
 
 ## Deelvragen
 * Wat zijn de duurste parkeer plekken?
-Vermoedelijk centrums van grote steden.
+_Vermoedelijk centrums van grote steden.
 
 * Welke parkeer categorien en tarieven zijn er?
-Verschillende prijzen per uur van gratis parkeren tot 50 euro voor een dagkaart
+_Verschillende prijzen per uur van gratis parkeren tot 50 euro voor een dagkaart
 
 * Verschillen deze tarieven per dag of tijdstip?
-Zondag vrij parkeren en na 9 uur vrij parkeren, etc.
+_Zondag vrij parkeren en na 9 uur vrij parkeren, etc.
 
 * Zijn bepaalde regio's duurder dan andere regio's?
-Vermoedelijk is Noord-Holland een duurdere regio.
+_Vermoedelijk is Noord-Holland een duurdere regio.
 
 * Met welke betaalmethode worden deze betaald?
-Ik denk dat er meer met een pinpas word betaald dan met cash.
+_Ik denk dat er meer met een pinpas word betaald dan met cash.
 
 ## Variabelen
 * Parkeertarieven
 * Parkeertarieven en categorien per dag
 * Parkeerlocaties
 * Betaalmethodes
-
 
 
 ### Features
@@ -64,9 +67,7 @@ https://liljiggly.github.io/functional-programming/
 https://opendata.rdw.nl/Parkeren/Open-Data-Parkeren-BETAALMETHODE-GEBIED/r3rs-ibz5/data
 https://opendata.rdw.nl/Parkeren/Open-Data-Parkeren-TARIEFBEREKENING/nfzq-8g7y
 
-## Debrief
 
-De volkskrant is op zoek naar interessante verbanden uit de RDW data om artikelen over te schrijven. Wij als CMD studenten gaan kijken of we een leuk onderwerp kunnen verzinnen waarin we verbanden leggen tussen verschillende databases.
 
 
  
