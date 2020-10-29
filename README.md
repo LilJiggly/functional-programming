@@ -1,5 +1,6 @@
 # functional-programming
 Deze repository is aangemaakt om mijn functional programming bestanden en leerprogressie weer te geven.
+Mijn hoofd en deelvragen kun je [hier](https://github.com/LilJiggly/functional-programming/wiki) vinden.
 
 - Wat doet je project? (description)
 - Welke features zijn er? (features)
