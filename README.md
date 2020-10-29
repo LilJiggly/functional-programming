@@ -1,5 +1,5 @@
 # functional-programming
-Deze repository is aangemaakt om mijn functional programming bestanden en leerprogressie weer te geven.
+Deze repository is aangemaakt om mijn functional programming bestanden en leerprogressie weer te geven.<br>
 Mijn hoofd en deelvragen kun je [hier](https://github.com/LilJiggly/functional-programming/wiki) vinden.
 
 ## Debrief 
