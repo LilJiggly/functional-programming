@@ -25,19 +25,19 @@ Waar en wanneer kun je zo duur mogelijk parkeren?
 
 ## Deelvragen
 * Wat zijn de duurste parkeer plekken?
-_Vermoedelijk centrums van grote steden.
+_Vermoedelijk centrums van grote steden._
 
 * Welke parkeer categorien en tarieven zijn er?
-_Verschillende prijzen per uur van gratis parkeren tot 50 euro voor een dagkaart
+_Verschillende prijzen per uur van gratis parkeren tot 50 euro voor een dagkaart_
 
 * Verschillen deze tarieven per dag of tijdstip?
-_Zondag vrij parkeren en na 9 uur vrij parkeren, etc.
+_Zondag vrij parkeren en na 9 uur vrij parkeren, etc._
 
 * Zijn bepaalde regio's duurder dan andere regio's?
-_Vermoedelijk is Noord-Holland een duurdere regio.
+_Vermoedelijk is Noord-Holland een duurdere regio._
 
 * Met welke betaalmethode worden deze betaald?
-_Ik denk dat er meer met een pinpas word betaald dan met cash.
+_Ik denk dat er meer met een pinpas word betaald dan met cash._
 
 ## Variabelen
 * Parkeertarieven
