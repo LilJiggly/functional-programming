@@ -26,7 +26,7 @@ Ik heb de code met VS code geschreven. Het is super simpele code aangezien bijna
 
 ### Deploy - Live link van het project?
 
-https://liljiggly.github.io/functional-programming/
+https://liljiggly.github.io/functional-programming/functional-programming/index.html
 
 ### Bronnen - Credit en license.
 
