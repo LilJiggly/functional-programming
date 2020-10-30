@@ -19,10 +19,14 @@ De volkskrant is op zoek naar interessante verbanden uit de RDW data om artikele
 - BETAALMETHODE GEBIED > PaymentMethod & AreaId
 - TARIEFBEREKENING > FareCalculationDesc & AreaId
 - SPECIALE DAG > DateSpecialDay & NameSpecialDay
+<br>
+- [schetsen](https://github.com/LilJiggly/functional-programming/tree/main/Schetsen%20png) van mijn data visualisatie.
 
 ### Install - Hoe draai je het project? 
 
 Ik heb de code met VS code geschreven. Het is super simpele code aangezien bijna alles wat in dit blok uitgelegd werd voor mij nieuw was.
+- Most interesting functional pattern:<br>
+Ik maak gebruik van .map om de data die ik wil selecteren binnen een array te plaatsen in mijn console. Ook maak ik nog gebruik van .sort om ze op alfabetische volgorde te zetten.
 
 ### Deploy - Live link van het project?
 
